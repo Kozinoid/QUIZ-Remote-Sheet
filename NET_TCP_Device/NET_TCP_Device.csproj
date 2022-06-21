@@ -81,6 +81,7 @@
       <DependentUpon>ResultTableViewClass.cs</DependentUpon>
     </Compile>
     <Compile Include="TCP_NET_Device.cs" />
+    <Compile Include="TCP_NET_Device_Eneter.cs" />
     <Compile Include="UDP_NET_Device.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
